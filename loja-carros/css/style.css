@@ -1,0 +1,81 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.valor {
+    color: white; 
+    display: inline; 
+}
+
+.resposta_valor {
+    color: #febe01;
+    display: inline; 
+}
+
+.marca_carro {
+    color:#b2b2b2;
+    display: inline; 
+}
+
+.modelo_carro {
+    color: #febe01;
+    display: inline; 
+}
+.ano{
+    color:#b2b2b2;
+    display: inline;
+}
+.resposta_ano{
+    color: #febe01;
+    display: inline;
+}
+
+.motor{
+    color:#b2b2b2;
+    display: inline;
+}
+.resposta_motor{
+    color: #febe01;
+    display: inline;
+}
+
+.cambio{
+    color:#b2b2b2;
+    display: inline;
+}
+.resposta_cambio{
+    color: #febe01;
+    display: inline;
+}
+
+.resposta_km{
+    color: #febe01;
+    display: inline;
+}
+.km{
+    color: #b2b2b2;
+    display: inline;
+}
+
+.car-box-1{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+    padding: 20px;margin: 20px;
+    border: 2px solid #111;
+    border-radius: 4px;
+    background-color: #111;
+}
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #332200;
+    background-color: #febe01;
+    padding: 10px;
+    border: none;
+    border-radius: 4px; 
+    cursor: pointer;
+  
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
